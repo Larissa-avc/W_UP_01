@@ -76,4 +76,5 @@ we conclude that the skill position players can do more pushups on average than 
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-the data was gathered from the numerical cat by looking at the graphs and is about line players and conclude that skill position players can do more pushups than line players
+George Town push ups is to determine how many push ups the skill players can do vs the line players in 2 minutes. It was said that there was no difference in the average amount of push ups between the line/ skill players. But in conclusion by looking at the graphs I can conclude that the skilled position players can do more push-ups than the line players
+
